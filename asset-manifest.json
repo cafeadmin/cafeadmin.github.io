@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/cafeadmin.github.io/static/css/main.5f361e03.chunk.css",
+    "main.js": "/cafeadmin.github.io/static/js/main.2eff4784.chunk.js",
+    "main.js.map": "/cafeadmin.github.io/static/js/main.2eff4784.chunk.js.map",
+    "runtime-main.js": "/cafeadmin.github.io/static/js/runtime-main.811dd09f.js",
+    "runtime-main.js.map": "/cafeadmin.github.io/static/js/runtime-main.811dd09f.js.map",
+    "static/js/2.e30a8bec.chunk.js": "/cafeadmin.github.io/static/js/2.e30a8bec.chunk.js",
+    "static/js/2.e30a8bec.chunk.js.map": "/cafeadmin.github.io/static/js/2.e30a8bec.chunk.js.map",
+    "index.html": "/cafeadmin.github.io/index.html",
+    "precache-manifest.683ca018d515468c3e70437b0e763718.js": "/cafeadmin.github.io/precache-manifest.683ca018d515468c3e70437b0e763718.js",
+    "service-worker.js": "/cafeadmin.github.io/service-worker.js",
+    "static/css/main.5f361e03.chunk.css.map": "/cafeadmin.github.io/static/css/main.5f361e03.chunk.css.map",
+    "static/js/2.e30a8bec.chunk.js.LICENSE.txt": "/cafeadmin.github.io/static/js/2.e30a8bec.chunk.js.LICENSE.txt",
+    "static/media/logo.svg": "/cafeadmin.github.io/static/media/logo.5d5d9eef.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.811dd09f.js",
+    "static/js/2.e30a8bec.chunk.js",
+    "static/css/main.5f361e03.chunk.css",
+    "static/js/main.2eff4784.chunk.js"
+  ]
+}
